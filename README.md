@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 珈百璃
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+热爱珈百璃。工作经验0年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
@@ -24,10 +24,9 @@
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
+### 开源项目-暂无
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=gabriel&repo=mp4To4K-rust)](https://github.com/gabriel/gabriel)
-<br><br><br>
+
 
 ### Github 活跃度
 
